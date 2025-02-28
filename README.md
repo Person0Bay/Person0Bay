@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m ZXCampForger
-> A senior Data Scientist from North Korea, based in P'yŏngyang
+> A senior Data Scientist from North Korea, based in Tashkent
 
 ## **About Me**
 Currently learning []()
